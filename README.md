@@ -1,3 +1,3 @@
-# Terraform Module Test
+# Terraform Test module
 
-Terraform Module Test
+Terraform Test module
